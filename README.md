@@ -16,10 +16,10 @@
  
  
  
- No brain tumour 
+ #No brain tumour 
  ![image](https://user-images.githubusercontent.com/105946391/173190362-fb304608-b80c-494d-a6f4-d337a0616e04.png)
 
-meningioma tumour
+#meningioma tumour
 
 ![image](https://user-images.githubusercontent.com/105946391/173190397-5302a821-f528-485d-9ca3-a02f1dc7f771.png)
 
