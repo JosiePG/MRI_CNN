@@ -3,6 +3,8 @@
 
 # Summary
  Project exploring the underlying features of real Brain-Tumor MRI scans 
+ 
+ 
  Goal : Create a model that can accuractley identify a Meniginoma Tumor from a random MRI Scan image
  
  # Introduction
